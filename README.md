@@ -25,7 +25,7 @@ Link: https://bdeutmeyer.github.io/marketing-refactor-challenge/
 
 ## Credits
 
-Most of the code in this repo was provided by the coding boot camp. Only the alterations are original to this repo.
+Most of the code in this repo was provided by the coding boot camp. Only the alterations are original to this repo.  The original source code can be find in the commit called "added starter code," committed on 9/12/23.
 
 ## License
 
